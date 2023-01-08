@@ -1,20 +1,44 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9543854&assignment_repo_type=AssignmentRepo)
+# Memory Match Game in JavaScript 🧠
 
-# 🧠ex4-memory game in js 🧠
+## Author: Noam Mirjani
 
-<h1>Noam Mirjani </h1>
-<h3>Email: Noammir@edu.hac.ac.il</h3>
+Welcome to the Memory Match Game! 
 
-<h1>Execution:</h1>
-<p>
-The submission is a WebStorm project that can be run directly from the IDE.
+This engaging JavaScript-based game allows you to challenge your memory skills. 
 
-memory game in js& html. there are three main screens - home - the user can choose his prefernce to the game, the game and score screen. 
-These games typically involve matching pairs of cards or other items, with the goal being to remember the location of each item and match them up in the fewest number of attempts. 
-to chose card you need to click on it, while you opened two cards there is timer, if there matched after the timer they will stay otherwise they flip back. the game ends when all the cards are matched and flipped!
-</p>
+You can customize the grid size by selecting the number of rows and columns, and then flip cards to find matching pairs. 
 
-<h1>Assumptions</h1>
-<p>
-  The site use bootstap CDN therefore assumes an internet connection is available.
-</p>
+The game also keeps track of your score and provides a high-score leaderboard where you can enter your name.
+
+
+<img src="images/play.png" alt="Settings" width="350"/> 
+
+### Table of Contents
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+- [License](#license)
+
+### Usage
+To enjoy the game, follow these simple steps:
+
+1. Open the `index.html` file in a web browser.
+2. Select the desired number of rows and columns for the game grid.
+3. Enter your name to personalize the gaming experience.
+4. Start playing by clicking on cards to flip them and match pairs.
+5. After completing the game, your score will be displayed.
+6. Optionally, enter your name to view the high scores on the leaderboard.
+
+<img src="images/settings.png" alt="Settings" width="150"/> <img src="images/leaderBoard.png" alt="Leaderboard" width="150"/>
+
+### Dependencies
+This project relies on the following external libraries:
+
+- **Bootstrap:** Used for styling and layout.
+
+### License
+
+Feel free to enhance and customize the game to suit your preferences. Happy gaming! 🎮
+
+### Try it yourself 
+
+[Click here to try it yourself](./html/index.html)
