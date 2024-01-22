@@ -2,16 +2,14 @@
 
 ## Author: Noam Mirjani
 
-Welcome to the Memory Match Game! 
+Welcome to the Memory Match Game! This engaging JavaScript-based game allows you to challenge your memory skills. Customize the grid size by selecting the number of rows and columns, then flip cards to find matching pairs. The game also keeps track of your score and provides a high-score leaderboard where you can enter your name.
 
-This engaging JavaScript-based game allows you to challenge your memory skills. 
+<p align="center">
+  <img src="images/play.png" alt="Memory Match Game" width="350"/>
+</p>
 
-You can customize the grid size by selecting the number of rows and columns, and then flip cards to find matching pairs. 
-
-The game also keeps track of your score and provides a high-score leaderboard where you can enter your name.
-
-
-<img src="images/play.png" alt="Settings" width="350"/> 
+### Try it yourself 
+[Click here to try the game](https://noammirjani.github.io/memory-game/html/index.html)
 
 ### Table of Contents
 - [Usage](#usage)
@@ -28,7 +26,10 @@ To enjoy the game, follow these simple steps:
 5. After completing the game, your score will be displayed.
 6. Optionally, enter your name to view the high scores on the leaderboard.
 
-<img src="images/settings.png" alt="Settings" width="150"/> <img src="images/leaderBoard.png" alt="Leaderboard" width="150"/>
+<p align="center">
+  <img src="images/settings.png" alt="Game Settings" width="150"/> 
+  <img src="images/leaderBoard.png" alt="Leaderboard" width="150"/>
+</p>
 
 ### Dependencies
 This project relies on the following external libraries:
@@ -38,7 +39,3 @@ This project relies on the following external libraries:
 ### License
 
 Feel free to enhance and customize the game to suit your preferences. Happy gaming! 🎮
-
-### Try it yourself 
-
-[Click here to try it yourself](./html/index.html)
